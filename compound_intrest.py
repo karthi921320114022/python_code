@@ -18,4 +18,4 @@ while time <=0:
         print("Time can't be less than or equal to zero")
 
 total=principle*pow((1+rate/100), time)
-print(f"Baalance after {time} year/s :{total:.2f}.RS")
+print(f"Balance after {time} year/s :{total:.2f}.RS")
